@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1677612601 source:c:\users\administrador\desktop\libreria\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<pthread.h>
+	"usuario.h"
+	"administrador.h"
+	"hilo.h"
+
+1677616464 source:c:\users\administrador\desktop\libreria\administrador.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"administrador.h"
+	"usuario.h"
+
+1677614160 source:c:\users\administrador\desktop\libreria\usuario.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	"usuario.h"
+	"administrador.h"
+
+1677602448 c:\users\administrador\desktop\libreria\usuario.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"administrador.h"
+
+1677330956 c:\users\administrador\desktop\libreria\administrador.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1676986486 c:\users\administrador\desktop\libreria\main.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1676928817 c:\users\administrador\desktop\libreria\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"usuario.h"
+	"administrador.h"
+	"main.h"
+
+1677600624 c:\users\administrador\desktop\libreria\hilo.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
+1677602493 source:c:\users\administrador\desktop\libreria\hilo.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	"usuario.h"
+	"administrador.h"
+	"hilo.h"
+
